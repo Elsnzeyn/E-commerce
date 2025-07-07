@@ -1,7 +1,6 @@
 package org.example.ecommerce.service;
 
 
-import lombok.RequiredArgsConstructor;
 import org.example.ecommerce.dto.Product;
 import org.example.ecommerce.exception.ProductTypeNotFound;
 import org.springframework.stereotype.Service;
